@@ -181,7 +181,7 @@ nav .nav-right .mobile-nav-bar .ri-close-fill {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 1rem;
+  gap: 1rem; 
   font-family: "Ubuntu", sans-serif;
 }
 
