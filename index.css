@@ -412,11 +412,11 @@ h3 {
 }
 
 .swiper-wrapper .swiper-slide .img1 {
-  background-image: url("/resource/member Img/vedvert.jpg");
+  background-image: url("resource/member Img/vedvert.jpg");
 }
 
 .swiper-wrapper .swiper-slide .img2 {
-  background-image: url("/resource/member Img/rupesh.jpg");
+  background-image: url("resource/member Img/rupesh.jpg");
 }
 .swiper-wrapper .swiper-slide .img {
   width: 150px;
